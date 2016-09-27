@@ -1,6 +1,8 @@
 # udacity-nanodegree-fsnd
 View all of my project milestones!
+______________________________________________________
 ![](http://i.imgur.com/wviTyGi.jpg)
+______________________________________________________
 
 > This program will prepare you for a job as a Full Stack Web Developer, and teach you to build complex server-side web applications that use powerful relational databases to persistently store data.
 You’ll learn to build applications that can support any front-end, and scale to support hundreds of thousands of users.
@@ -9,6 +11,7 @@ You’ll learn to build applications that can support any front-end, and scale t
 
 > - Udacity
 > https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004
+
 ______________________________________________________
 
 Project 1 - Movie Trailer Website
