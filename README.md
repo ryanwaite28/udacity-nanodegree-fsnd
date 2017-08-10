@@ -2,6 +2,7 @@
 View all of my project milestones!
 ______________________________________________________
 ![](http://i.imgur.com/wviTyGi.jpg)
+![](http://i.imgur.com/bNQDz9R.png)
 ______________________________________________________
 
 > This program will prepare you for a job as a Full Stack Web Developer, and teach you to build complex server-side web applications that use powerful relational databases to persistently store data.
