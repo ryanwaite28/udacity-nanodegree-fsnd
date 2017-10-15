@@ -1,7 +1,6 @@
 # udacity-nanodegree-fsnd
 View all of my project milestones!
 ______________________________________________________
-![](http://i.imgur.com/wviTyGi.jpg)
 ![](http://i.imgur.com/bNQDz9R.png)
 ______________________________________________________
 
